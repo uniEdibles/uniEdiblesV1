@@ -1,0 +1,77 @@
+body {
+  font-family: "Titillium Web";
+  background-image: url(jakub-kapusnak-sDbj1dFlFPU-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  margin-top: 10px;
+  font-size: 5rem;
+}
+
+#content {
+  color: rgba(0, 0, 0, 0.651);
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 8px rgba(245, 28, 28, 0.233);
+}
+
+#search {
+  margin-top: 40px;
+}
+
+#logo-nav {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+.nav-link {
+  font-size: 1.2em;
+}
+/* 
+.bg-custom {
+  background-color: rgb(8, 9, 14);
+} */
+
+#submit {
+  margin-top: 10px;
+}
+
+.addIngredient {
+  margin-top: 20px;
+  justify-content: center;
+}
+
+#ptext {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 24px;
+}
+
+h2 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-align: center;
+  font-size: 24px;
+}
+
+h6 {
+  margin-top: 5px;
+  text-align: center;
+}
+
+#submit-final {
+  justify-content: center;
+}
+
+#titleContainer {
+  margin-top: 50px;
+}
